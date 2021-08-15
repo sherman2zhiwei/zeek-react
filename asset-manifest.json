@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/zeek-react/static/css/main.ef161a56.chunk.css",
+    "main.js": "/zeek-react/static/js/main.52fdfd9c.chunk.js",
+    "main.js.map": "/zeek-react/static/js/main.52fdfd9c.chunk.js.map",
+    "runtime-main.js": "/zeek-react/static/js/runtime-main.baf5de6d.js",
+    "runtime-main.js.map": "/zeek-react/static/js/runtime-main.baf5de6d.js.map",
+    "static/css/2.57e7f9f1.chunk.css": "/zeek-react/static/css/2.57e7f9f1.chunk.css",
+    "static/js/2.92bc2f38.chunk.js": "/zeek-react/static/js/2.92bc2f38.chunk.js",
+    "static/js/2.92bc2f38.chunk.js.map": "/zeek-react/static/js/2.92bc2f38.chunk.js.map",
+    "static/js/3.363323e8.chunk.js": "/zeek-react/static/js/3.363323e8.chunk.js",
+    "static/js/3.363323e8.chunk.js.map": "/zeek-react/static/js/3.363323e8.chunk.js.map",
+    "index.html": "/zeek-react/index.html",
+    "static/css/2.57e7f9f1.chunk.css.map": "/zeek-react/static/css/2.57e7f9f1.chunk.css.map",
+    "static/css/main.ef161a56.chunk.css.map": "/zeek-react/static/css/main.ef161a56.chunk.css.map",
+    "static/js/2.92bc2f38.chunk.js.LICENSE.txt": "/zeek-react/static/js/2.92bc2f38.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/zeek-react/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/food.ac7422da.jpeg": "/zeek-react/static/media/food.ac7422da.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baf5de6d.js",
+    "static/css/2.57e7f9f1.chunk.css",
+    "static/js/2.92bc2f38.chunk.js",
+    "static/css/main.ef161a56.chunk.css",
+    "static/js/main.52fdfd9c.chunk.js"
+  ]
+}
