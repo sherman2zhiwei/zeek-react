@@ -1,0 +1,29 @@
+.Home .lander {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar{
+  width: 100vw !important;
+}
+
+.Home {
+  background-color: #F8F8F8;
+}
+
+html, body{
+  height: 100%;
+  background-color: #F8F8F8 !important;
+}
+
+.post-deleted {
+  color: #fff;
+}
+
+.navbar-nav {
+  margin-left: .5rem;
+}

@@ -1,0 +1,35 @@
+@media (max-width: 575.98px) {
+	.container {
+		padding: 0;
+	}
+}
+
+
+.recommendation{
+	height: 100%;
+}
+
+.details{
+	cursor: auto !important;
+}
+
+.btn {
+	/*padding: 0 !important;*/
+}
+
+.delete {
+	float: right;
+}
+
+.delete-icon{
+	fill: #F40D30;
+}
+
+.delete-icon:hover{
+	transform: scale(1.1,1.1);
+	cursor: pointer;
+}
+
+.btn-danger{
+	background-color: #F40D30 !important;
+}

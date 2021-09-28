@@ -1,0 +1,118 @@
+@media (max-width: 575.98px) {
+  .like-button{
+    width: 100vw !important;
+  }
+
+  .card{
+    width: 100vw !important;
+  }
+
+  .navbar{
+    width: 100vw !important;
+  }
+
+  .end{
+    width: 100vw !important;
+  }
+
+}
+
+.toast {
+	position: fixed;
+	bottom: 1rem;
+	right: 1rem;
+	z-index: 1;
+}
+
+hr{
+	color: #C0C0C0;
+}
+
+.like-icon {
+  margin-right: .5rem;
+  margin-top: .2rem;
+}
+
+.like-button{
+  background-color: white;
+  /*border: 1px solid gray;*/
+  width: 50vw;
+  margin: 0 auto;
+  justify-content: center;
+  border-top: 1px solid #F5F5F5;
+  cursor: pointer;
+
+}
+
+.like-button:hover{
+  background-color: #D3D3D3;
+}
+
+.liked{
+  fill: red;
+  color: red;
+}
+
+
+.bottom{
+	text-align: center;
+}
+
+.card {
+  margin: 0 auto;
+  border: none !important;
+  margin-top: 2rem;
+  width: 50vw;
+  /*cursor: pointer;*/
+}
+
+
+.restaurant{
+  margin-left: .25rem;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.end{
+  margin: 3rem auto;
+  text-align: center;
+  width: 50vw;
+}
+
+.description {
+  margin-top: 1rem !important;
+}
+
+.likes {
+  float: right;
+}
+
+.number-of-likes{
+  fill: #F40D30;
+  margin-left: .25rem;
+  margin-top: .1rem;
+}
+
+.MuiFab-root{
+  background-color: #F40D30 !important;
+  color: #fff !important;
+}
+
+.add-text{
+  margin-left: .5rem;
+}
+
+.article-title:hover {
+  text-decoration: underline;
+}
+
+.show-more a {
+  color: #0d6efd !important;
+}
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+}

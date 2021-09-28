@@ -1,0 +1,50 @@
+.post-recommendation-form{
+	margin: 2rem;
+}
+
+.MuiChip-root{
+	margin-right: .25rem;
+	margin-bottom: .5rem;
+}
+
+.post-your-recommendation{
+	font-weight: bold;
+	font-family: "Open Sans", sans-serif;
+}
+
+.restaurant{
+	margin-right: .5rem;
+}
+
+.form-error{
+	color: #fff;
+}
+
+.loader-container{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #303030AD;
+	z-index: 1000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.loader {
+  position: absolute;
+  z-index: 1000;
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

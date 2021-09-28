@@ -1,0 +1,55 @@
+.Login {
+  padding: 60px 0;
+}
+
+.Login form {
+  margin: 0 auto;
+  max-width: 320px;
+}
+
+.social-button {
+  text-align: left !important;
+}
+
+.social-button-icon{
+  margin-right: 1rem;
+}
+
+.Login h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.or-separator {
+  margin: 0 auto;
+  margin-top: 2rem;
+  max-width: 320px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.or-separator i{
+  padding: 0 10px;
+  top: -15px !important;
+  position: relative;
+  z-index: 1;
+  background-color: #F8F8F8;
+}
+
+.Login .alert{
+  margin: auto;
+}
+
+.privacy-policy{
+  font-size: .75rem !important;
+  text-align: center;
+  margin-top: .5rem;
+}
+
+.privacy-policy:link{
+  color: blue !important;
+  text-decoration: underline !important;
+}
+
